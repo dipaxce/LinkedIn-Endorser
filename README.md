@@ -5,9 +5,9 @@ Ever been in a situation where your friend asks you to endorse his skill sets in
 
 
 ## Requirements
-Python 3
-Selenium for Python
-Chrome WebDriver 
+- Python 3
+- Selenium for Python
+- Chrome WebDriver 
 
 # Author
-Dipesh Poudel
+[Dipesh Poudel](https://github.com/dipaxce)
